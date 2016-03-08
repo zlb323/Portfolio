@@ -35,7 +35,7 @@
 	
 	section .text
 _main:
-;addbyte number, numberstr
+	addbyte number, numberstr
 	
 	mov		al,[number]
 	and		al,0f0h
