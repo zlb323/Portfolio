@@ -2,6 +2,7 @@
 -Zachary Bellew
 
 Notable projects
+
 	Timely /SophomoreYear/timely
 		-A scheduling app designed to help small businesses schedule their employees with ease
 	
