@@ -1,9 +1,10 @@
-# Portfolio
-#
-#This Repository is intended to be a portfolio
-#of Zachary Bellew's programming work
-#
-#All work included is free to be used under the Apache 2.0 license
-#
-#Any questions regarding the work contained in this repository
-#can be sent via email to zach1bellew@gmail.com
+#Portfolio
+-Zachary Bellew
+
+Notable projects
+	Timely /SophomoreYear/timely
+		-A scheduling app designed to help small businesses schedule their employees with ease
+	
+	2d Game engine /junior year/2d game engine
+		-a top down scrolling 2-dimensional game engine
+	
