@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main(int args, char argv[])
+int main(int args, char *argv[])
 {
 	flyingCar::builder Car;
 	Car.setSpeed(13).setNumP(4).setModelYear(2116);

@@ -1,0 +1,11 @@
+T__0=1
+T__1=2
+T__2=3
+GROUP=4
+WORD=5
+NUMBER=6
+WHITESPACE=7
+';'=1
+'{'=2
+'}'=3
+'Group'=4
